@@ -10,3 +10,5 @@
 ###< phpunit/phpunit ###
 
 .idea/
+var/
+vendor/
